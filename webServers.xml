@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7f68e76a-2248-460a-adc9-3d53f8034412" name="Uncrowd v0.5" url="http://waws-prod-ln1-025.ftp.azurewebsites.windows.net">
+        <fileTransfer host="waws-prod-ln1-025.ftp.azurewebsites.windows.net" port="21" rootFolder="/site/wwwroot">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="533bd42c-4b03-4df3-9903-ff5a22281887" name="Stillwater Server" url="http://s18626427.onlinehome-server.info">
+        <fileTransfer host="s18626427.onlinehome-server.info" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="36824318-3107-484d-abee-1fe18a933ff3" name="Sandpit-Site" url="https://uncrowd">
+        <fileTransfer host="waws-prod-ln1-025.ftp.azurewebsites.windows.net" port="21" rootFolder="/site/wwwroot">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
