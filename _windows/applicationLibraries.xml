@@ -1,7 +1,15 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/jquery" type="javaScript">
-      <CLASSES />
+    <library name="jquery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://C:/UNCROWD_v1.0/node_modules/jquery" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://C:/UNCROWD_v1.0/node_modules/jquery" />
+      </CLASSES>
       <SOURCES />
     </library>
   </component>
