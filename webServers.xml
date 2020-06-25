@@ -25,6 +25,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="be9a8416-bb57-4117-b5d4-db31807cf1f6" name="Uncrowd_v1.0" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
