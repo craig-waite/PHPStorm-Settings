@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="sticker-sun" type="PLAIN_TEXT" />
+      <mapping ext="ps1" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="web.config" type="XML" />
     </extensionMap>
